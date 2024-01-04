@@ -20,6 +20,7 @@ Step 5:
 print the output
 
 ## PROGRAM:
+~~~
 #Developed by:Nishanth J
 #Register Number: 230007929
 import pandas as pd
@@ -28,6 +29,7 @@ print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
+~~~
 
 ## OUTPUT:
 ![WhatsApp Image 2024-01-04 at 18 46 47_9c5a459d](https://github.com/Nishanth-018/Read-from-CSV/assets/149347651/57c7e703-6166-4799-9489-6a3c3cd2f501)
